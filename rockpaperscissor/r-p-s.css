@@ -1,0 +1,107 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:grey
+}
+header{
+    height:60px;
+    background-color: black;
+    color:red;
+    display:flex;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+}
+#maindiv{
+    padding-top:40px;
+    height:100%;
+    width:100%;
+    display:flex;
+    justify-content: center;
+}
+#submaindiv{
+    height:500px;
+    width:600px;
+    flex-direction: column;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#images{
+    height:200px;
+    width:400px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    gap:30px;
+}
+
+.s-p-rimages{
+    padding-right:100px;
+    height:100px;
+    width:100px;
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    justify-content: center;
+    border-radius:50%;
+}
+#winning-numbers{
+    height:120px;
+    width:500px;
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    gap:7px;
+}
+.wincount{
+    height: 100px;
+    width:90px;
+    display:flex;
+    font-size: 25px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+#telling-the-winner{
+    height:50px;
+    width: 300px;;
+    padding-left :10px;
+    padding-right: 10px;
+    background-color:black;
+    color:white;
+    display:flex;
+    flex:wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+    margin-left:20px;
+}
+#controls{
+    margin-top:20px;
+    display:flex;
+    flex-direction: column;
+    gap:15px;
+    justify-content:space-evenly;
+    align-items: center;
+}
+#controls button{
+    padding:10px 20px;
+    border:none;
+    border-radius:10px;
+    font-size:16px;
+    cursor:pointer;
+    background-color:black;
+    color:white;
+    transition:0.3s;
+}
+#controls button:hover{
+    background-color:gray;
+}
+
