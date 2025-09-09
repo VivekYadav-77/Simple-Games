@@ -28,23 +28,25 @@ Simple-Games/
    Open any game folder (rockpaperscissor, tictactoe, or snakegame).
    Run the html file in your browser.
 
-🕹 Game Features
-Rock Paper Scissors
 
--Play against the computer.
--Randomized computer moves.
--Score tracking and reset option.
+##🕹 Game Features
+#Rock Paper Scissors
 
-Tic Tac Toe
 
-Two-player game (X vs O).
--Detects winner or draw.
--New Game option.
--Reset option.
+:Play against the computer.
+:Randomized computer moves.
+:Score tracking and reset option.
 
-Snake Game
+#Tic Tac Toe
 
--Classic snake gameplay with food.
--Start, Resume, and New Game buttons.
--Bonus food for extra points.
--Smooth and slower speed for better playability.
+:Two-player game (X vs O).
+:Detects winner or draw.
+:New Game option.
+:Reset option.
+
+#Snake Game
+
+:Classic snake gameplay with food.
+:Start, Resume, and New Game buttons.
+:Bonus food for extra points.
+:Smooth and slower speed for better playability.
