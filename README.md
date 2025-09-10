@@ -12,11 +12,13 @@ Each game is lightweight, responsive, and runs directly in the browser — no de
 ---
 
 ## 📂 Repository Structure
+```
 Simple-Games/
-│── rockpaperscissor/html,css,js files
-│── tictactoe/html,css,js files
-│── snakegame/html,css,js files
-│── README.md # Project documentation
+│── rockpaperscissor/   # Rock Paper Scissors game
+│── tictactoe/          # Tic Tac Toe game
+│── snakegame/          # Snake Game
+│── README.md           # Project documentation
+```
 
 ---
 
@@ -25,28 +27,30 @@ Simple-Games/
    ```bash
    git clone https://github.com/your-username/Simple-Games.git
    cd Simple-Games
-   Open any game folder (rockpaperscissor, tictactoe, or snakegame).
-   Run the html file in your browser.
+   ```
+2. Open any game folder (`rockpaperscissor`, `tictactoe`, or `snakegame`).
+3. Run the `html` file in your browser.
 
+---
 
-##🕹 Game Features
-#Rock Paper Scissors
+## 🕹 Game Features
 
+### Rock Paper Scissors
+- Play against the computer.
+- 10 attempts per game with a **New Game** button after finishing attempts.
+- Score tracking and **Restart** option.
 
-:Play against the computer.
-:Randomized computer moves.
-:Score tracking and reset option.
+### Tic Tac Toe
+- Two-player game (X vs O).
+- Detects winner or draw.
+- Popup with **New Game** option.
+- Reset button appears only when game has started.
 
-#Tic Tac Toe
+### Snake Game
+- Classic snake gameplay with food and bonus food.
+- Starts only after pressing **Start** button.
+- **Resume** and **New Game** options available during gameplay.
+- Popup for game over with replay options.
+- Slowed down speed for smoother playability.
 
-:Two-player game (X vs O).
-:Detects winner or draw.
-:New Game option.
-:Reset option.
-
-#Snake Game
-
-:Classic snake gameplay with food.
-:Start, Resume, and New Game buttons.
-:Bonus food for extra points.
-:Smooth and slower speed for better playability.
+---
