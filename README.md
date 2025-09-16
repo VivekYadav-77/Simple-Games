@@ -44,7 +44,7 @@ Simple-Games/
 - Two-player game (X vs O).
 - Detects winner or draw.
 - Popup with **New Game** option.
-- Reset button appears only when game has started.
+- Reset button appears  when game has started.
 
 ### Snake Game
 - Classic snake gameplay with food and bonus food.
