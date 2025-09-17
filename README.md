@@ -17,6 +17,7 @@ Simple-Games/
 │── rockpaperscissor/   # Rock Paper Scissors game
 │── tictactoe/          # Tic Tac Toe game
 │── snakegame/          # Snake Game
+│── index.html          # First rendered page
 │── README.md           # Project documentation
 ```
 
@@ -25,7 +26,7 @@ Simple-Games/
 ## 🚀 How to Play
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Simple-Games.git
+   git clone https://github.com/VivekYadav-77/Simple-Games.git
    cd Simple-Games
    ```
 2. Open any game folder (`rockpaperscissor`, `tictactoe`, or `snakegame`).
