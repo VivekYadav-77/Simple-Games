@@ -1,5 +1,7 @@
 # 🎮 Simple Games
 
+# Visit :-  https://vivekyadav-77.github.io/Simple-Games/
+
 A collection of classic browser-based games built with **HTML, CSS, and JavaScript**.  
 This repo contains three games:  
 
@@ -55,4 +57,3 @@ Simple-Games/
 - Slowed down speed for smoother playability.
 
 ---
-## Visit :-  https://vivekyadav-77.github.io/Simple-Games/
